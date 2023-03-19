@@ -1,3 +1,5 @@
+<p style="text-align:center;"><img src="https://codequotient.com/blog/wp-content/uploads/2020/12/6-Reasons-Why-Having-a-Professional-Coder-Certification-Is-Crucial.jpg" alt="Logo"></p>
+
 <h1 align="center">Hi 👋, I'm Ratan Khandekar</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
