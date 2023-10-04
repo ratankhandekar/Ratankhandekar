@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Ratan Khandekar</h1>
-<h3 align="center">You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Happy Coding! 😊</h3>
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile.I am a passionate Backend Developer from India." />
+</p>
+<h1 align="center">𝑹𝒂𝒕𝒂𝒏 𝑲𝒉𝒂𝒏𝒅𝒆𝒌𝒂𝒓 || 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑱𝒂𝒗𝒂 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓|| 𝑨𝑾𝑺 𝑫𝒐𝒄𝒌𝒆𝒓 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratankhandekar&label=Profile%20views&color=0e75b6&style=flat" alt="ratankhandekar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratankhandekar&theme=darkhub" alt="ratankhandekar" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Developer**
+- 🔭 I’m currently working on **Backend Java Developer**
 - 👯 I’m looking to collaborate on **Web Development with Backend technologies**
 - 🌱 I’m currently learning **Java 8,Spring boot , Hibernate, JPA**
 - 💬 Ask me about **Any open source contribution , Project Development With industry Standard coding**
