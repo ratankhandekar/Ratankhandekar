@@ -2,7 +2,7 @@
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile.I am a passionate Backend Developer from India." />
 </p>
-<h1 align="center">𝑹𝒂𝒕𝒂𝒏 𝑲𝒉𝒂𝒏𝒅𝒆𝒌𝒂𝒓 || 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑱𝒂𝒗𝒂 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓|| 𝑨𝑾𝑺 𝑫𝒐𝒄𝒌𝒆𝒓 </h1>
+<h1 align="center">𝑹𝒂𝒕𝒂𝒏 𝑲𝒉𝒂𝒏𝒅𝒆𝒌𝒂𝒓 || 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑱𝒂𝒗𝒂 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 || 𝑨𝑾𝑺 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratankhandekar&label=Profile%20views&color=0e75b6&style=flat" alt="ratankhandekar" /> </p>
 
 
